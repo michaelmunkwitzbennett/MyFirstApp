@@ -1,0 +1,13 @@
+C:\Users\scawd\source\repos\MyFirstApp\MyFirstApp\bin\Debug\netstandard2.0\MyFirstApp.deps.json
+C:\Users\scawd\source\repos\MyFirstApp\MyFirstApp\bin\Debug\netstandard2.0\MyFirstApp.dll
+C:\Users\scawd\source\repos\MyFirstApp\MyFirstApp\bin\Debug\netstandard2.0\ref\MyFirstApp.dll
+C:\Users\scawd\source\repos\MyFirstApp\MyFirstApp\bin\Debug\netstandard2.0\MyFirstApp.pdb
+C:\Users\scawd\source\repos\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.csprojAssemblyReference.cache
+C:\Users\scawd\source\repos\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\scawd\source\repos\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\scawd\source\repos\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.AssemblyInfoInputs.cache
+C:\Users\scawd\source\repos\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.AssemblyInfo.cs
+C:\Users\scawd\source\repos\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\scawd\source\repos\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.dll
+C:\Users\scawd\source\repos\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\ref\MyFirstApp.dll
+C:\Users\scawd\source\repos\MyFirstApp\MyFirstApp\obj\Debug\netstandard2.0\MyFirstApp.pdb
